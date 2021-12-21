@@ -1,4 +1,4 @@
-- 👋 Hi, I’m software developer. 
+- 👋 Hi, I’m software developers since 90s. My speciality now is .NET along with adjacent stuff (SQL, Web frameworks among others).
 
 <!---
 Kyriosity/Kyriosity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
