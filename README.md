@@ -1,10 +1,8 @@
-- 👋 I’m software developers since 90s. My speciality is mostly C#\.NET along with adjacent stuff (SQL, Web frameworks among others).
+Here i'd like to share the following subjects of IMHO&nbsp;<sup>*</sup>:
 
-Here i'd like to share:
+📖 concepts and guidelines, i do follow
 
-📖 impressions and guidelines, i do follow
-
-💾 practical solutions of practical value
+💾 practical solutions, that can be used in applications
 
 ___________________
-This everything is the subject of IMHO (in my humble/honest opinion). I could have misunderstood, missed some points. Errors and mistakes are also possible. With this said, any rational critic (review) is very welcome.
+<sup>*</sup> In my humble/honest opinion. I could have misunderstood, missed some points. Errors and mistakes are also possible. With this said, any rational critic (review) is very welcome.
