@@ -7,7 +7,7 @@
 Here i'd like to share the following subjects of IMHO&nbsp;<sup>:one:</sup>
 
 - [concepts and guidelines](../../../read-write), i do follow and implement in ...
-- [pragmatic solutions](../../../use-dev), that can be used in applications
+- [tailored projects](../../../use-dev), that can be a help in your code
 
 ___________________
 <sup>:one:</sup> In my humble opinion. I could misunderstood, missed some points. Errors and outdated statements are also possible.\
