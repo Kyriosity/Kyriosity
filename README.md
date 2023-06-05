@@ -4,11 +4,11 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;&nbsp;
 [![et cetera](https://img.shields.io/badge/et-cetera-<COLOR>.svg)](https://shields.io/)
 
-I'd like to share the following subjects of IMHO&nbsp;<sup>:one:</sup>
+Repositories here host the following subjects of IMHO&nbsp;<sup>:one:</sup>
 
-- [concepts and guidelines](../../../read-write), where i try to emphasize own experience and avoid common statements ...
+- [reviews, proposals and guidelines](../../../read-write), where i emphasize own experience and try to avoid triviality
 - [tailored projects](../../../use-dev), that can be a help for your dev
 
 ___________________
 <sup>:one:</sup> In my humble opinion. I could misunderstood, missed some points. Errors and outdated statements are also possible.\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thus, rational review, critic or contribution is very welcome.
+Thus, rational review, critic or contribution is very welcome.
