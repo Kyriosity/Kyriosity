@@ -6,12 +6,9 @@
 
 | [read-write](../../../read-write) | [use-dev](../../../use-dev) |
 | ------------- | ------------- |
-| _reviews_, _proposals_, _guidelines_,<br/>where I emphasize my own experience<br/>and try to avoid triviality  | concept-driven projects,<br/>that can be a help for your dev  |
-
-
-
+| **reviews**, **proposals**, **guidelines**,<br/>_where I emphasize my own experience_,<br/>_trying to avoid triviality and obviousness_.  | **_concept-driven projects_**,<br/>_which cover engaging features_<br/>_in a way better than found. _ |
 
 ___________________
-<sup>:one:</sup> I could have misunderstood and missed some points.\
-Errors and outdated statements are also possible.\
-Thus, rational review, critique, or contribution is very welcome.
+<sup>:small_orange_diamond:</sup>&nbsp;I could have misunderstood and missed some points.\
+<sup>:small_red_triangle_down:</sup>&nbsp;Errors and outdated statements are also possible.\
+<sup>:small_blue_diamond:</sup>&nbsp;Thus, rational review, critique, or contribution is very welcome.
