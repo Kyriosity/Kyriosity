@@ -6,7 +6,7 @@
 
 | [read-write](../../../read-write) | [use-dev](../../../use-dev) |
 | ------------- | ------------- |
-| **reviews**, **proposals**, **guidelines**,<br/>_where I emphasize my own experience_,<br/>_trying to avoid triviality and obviousness_.  | **_concept-driven projects_**,<br/>_which cover engaging features_<br/>_in a way better than found. _ |
+| **reviews**, **proposals**, **guidelines**,<br/>_where I emphasize my own experience_,<br/>_trying to avoid triviality and obviousness_.  | **concept-driven projects**,<br/>_which cover engaging features_<br/>_in a way better than found_. |
 
 ___________________
 <sup>:small_orange_diamond:</sup>&nbsp;I could have misunderstood and missed some points.\
