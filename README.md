@@ -5,7 +5,7 @@
 [![et cetera](https://img.shields.io/badge/et-cetera-<COLOR>.svg)](https://shields.io/)
 
 Here I'd like to share the following writing and development:
-| [read-write](../../../read-write) | [use-dev](../../../use-dev) |
+| [READ-WRITE](../../../read-write) | [USE-DEV](../../../use-dev) |
 | ------------- | ------------- |
 | **reviews**, **proposals**, **guidelines**,<br/>_where I emphasize my own experience_,<br/>_trying to avoid triviality and obviousness_.  | **use-oriented projects**,<br/>_which cover essential tasks_<br/>_in a way better than found_. |
 
