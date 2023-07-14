@@ -5,7 +5,7 @@
 [![et cetera](https://img.shields.io/badge/et-cetera-<COLOR>.svg)](https://shields.io/)
 
 Software. Here I'd like to share the following writing and development:
-| [READ-WRITE](../../../read-write/README.md) | [USE-DEV](../../../use-dev) |
+| [READ-WRITE](../../../read-write/) | [USE-DEV](../../../use-dev) |
 | ------------- | ------------- |
 | **reviews**, **proposals**, **guidelines**,<br/>_where I emphasize my own experience_,<br/>_trying to avoid triviality and obviousness_.  | **lack-oriented projects**,<br/>_which rest on decisions from praxis and_<br/>_cover essential tasks_. |
 
