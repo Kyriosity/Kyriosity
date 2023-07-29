@@ -7,9 +7,9 @@
 IT & Software. Here I'd like to share the following writing and development:
 | [READ-WRITE](../../../read-write/) | [USE-DEV](../../../use-dev) |
 | ------------- | ------------- |
-| **reviews**, **proposals**, **guidelines**,<br/>_where I emphasize my own experience_,<br/>_trying to avoid triviality and obviousness_.  | **design decisions** & **pragmatic projects**,<br/>_which cover essential tasks, and may_<br/>_become a part of your application_. |
+| **reviews**, **proposals**, **guidelines**,<br/>_where I emphasize my own experience_,<br/>_trying hard to avoid banality and obviousness_.  | **design decisions** & **pragmatic projects**,<br/>_which cover essential tasks, and may_<br/>_become a part of your application_. |
 
 ___________________
 
-[![AI-free](https://github.com/Kyriosity/read-write/blob/6b8881e404f97d92b21cc57dad2dae18b111f11f/readme%2B/pencraft/readme%2B/_rsc/_img/AIfree.jpg)](https://github.com/Kyriosity/read-write/blob/9402c446b0e9c1bc7a4152d0152a24a9d4ca5713/readme%2B/pencraft/readme%2B/opuses/AI-hype.md)\
-([read more](https://github.com/Kyriosity/read-write/blob/9402c446b0e9c1bc7a4152d0152a24a9d4ca5713/readme%2B/pencraft/readme%2B/opuses/AI-hype.md))
+[![AI-free](https://github.com/Kyriosity/read-write/blob/6b8881e404f97d92b21cc57dad2dae18b111f11f/readme%2B/pencraft/readme%2B/_rsc/_img/AIfree.jpg)](https://github.com/Kyriosity/read-write/blob/b5bfcaf337c2b46181da1d7c2dd179c6f0b1338e/readme%2B/pencraft/readme%2B/opuses/AI-hype.md)\
+([read more](https://github.com/Kyriosity/read-write/blob/b5bfcaf337c2b46181da1d7c2dd179c6f0b1338e/readme%2B/pencraft/readme%2B/opuses/AI-hype.md))
