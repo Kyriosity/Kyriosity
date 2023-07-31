@@ -11,5 +11,5 @@ IT & Software. Here I'd like to share the following writing and development:
 
 ___________________
 
-[![AI-free](https://github.com/Kyriosity/read-write/blob/6b8881e404f97d92b21cc57dad2dae18b111f11f/readme%2B/pencraft/readme%2B/_rsc/_img/AIfree.jpg)](https://github.com/Kyriosity/read-write/blob/b8e27be0960c45f2b02a2ec25cf8f37e165cb5a6/readme%2B/pencraft/readme%2B/opuses/AI-view.md)\
-([read more](https://github.com/Kyriosity/read-write/blob/b8e27be0960c45f2b02a2ec25cf8f37e165cb5a6/readme%2B/pencraft/readme%2B/opuses/AI-view.md))
+[![AI-free](https://github.com/Kyriosity/read-write/blob/6b8881e404f97d92b21cc57dad2dae18b111f11f/readme%2B/pencraft/readme%2B/_rsc/_img/AIfree.jpg)](https://github.com/Kyriosity/read-write/blob/main/readme%2B/pencraft/readme+/opuses/AI-view.md)\
+([read more](https://github.com/Kyriosity/read-write/blob/main/readme%2B/pencraft/readme+/opuses/AI-view.md))
